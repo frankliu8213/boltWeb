@@ -1,0 +1,61 @@
+{
+  "nav": {
+    "upgrade": "Mejorar a VIP",
+    "login": "Iniciar Sesión",
+    "cart": "Carrito"
+  },
+  "hero": {
+    "title": "Colección Verano 2024",
+    "subtitle": "Descubre las últimas tendencias en moda",
+    "cta": "Comprar Ahora"
+  },
+  "sections": {
+    "featured": "Productos Destacados",
+    "bestSellers": "Más Vendidos",
+    "viewAll": "Ver Todos los Productos"
+  },
+  "newsletter": {
+    "title": "Suscríbete a Nuestro Boletín",
+    "subtitle": "Recibe las últimas actualizaciones sobre nuevos productos y próximas ventas",
+    "placeholder": "Ingresa tu email",
+    "button": "Suscribirse"
+  },
+  "footer": {
+    "about": "Tu destino único para una experiencia de compra premium",
+    "quickLinks": "Enlaces Rápidos",
+    "customerService": "Servicio al Cliente",
+    "followUs": "Síguenos",
+    "rights": "Todos los derechos reservados"
+  },
+  "modals": {
+    "login": {
+      "title": "Iniciar Sesión",
+      "email": "Correo Electrónico",
+      "password": "Contraseña",
+      "remember": "Recordarme",
+      "forgot": "¿Olvidaste tu contraseña?",
+      "submit": "Entrar",
+      "noAccount": "¿No tienes cuenta?",
+      "signup": "Regístrate"
+    },
+    "cart": {
+      "title": "Carrito de Compras",
+      "empty": "Tu carrito está vacío",
+      "total": "Total",
+      "checkout": "Pagar"
+    },
+    "vip": {
+      "title": "Mejorar a VIP",
+      "choosePlan": "Elegir Plan",
+      "perMonth": "/mes"
+    },
+    "product": {
+      "addToCart": "Añadir al Carrito"
+    },
+    "allProducts": {
+      "title": "Todos los Productos",
+      "search": "Buscar productos...",
+      "category": "Categoría"
+    }
+  }
+}

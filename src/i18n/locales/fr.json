@@ -1,0 +1,61 @@
+{
+  "nav": {
+    "upgrade": "Devenir VIP",
+    "login": "Connexion",
+    "cart": "Panier"
+  },
+  "hero": {
+    "title": "Collection Été 2024",
+    "subtitle": "Découvrez les dernières tendances de la mode",
+    "cta": "Acheter"
+  },
+  "sections": {
+    "featured": "Produits Vedettes",
+    "bestSellers": "Meilleures Ventes",
+    "viewAll": "Voir Tous les Produits"
+  },
+  "newsletter": {
+    "title": "Abonnez-vous à Notre Newsletter",
+    "subtitle": "Recevez les dernières mises à jour sur les nouveaux produits et les ventes à venir",
+    "placeholder": "Entrez votre email",
+    "button": "S'abonner"
+  },
+  "footer": {
+    "about": "Votre destination unique pour une expérience shopping premium",
+    "quickLinks": "Liens Rapides",
+    "customerService": "Service Client",
+    "followUs": "Suivez-nous",
+    "rights": "Tous droits réservés"
+  },
+  "modals": {
+    "login": {
+      "title": "Connexion",
+      "email": "Adresse Email",
+      "password": "Mot de passe",
+      "remember": "Se souvenir de moi",
+      "forgot": "Mot de passe oublié ?",
+      "submit": "Se Connecter",
+      "noAccount": "Vous n'avez pas de compte ?",
+      "signup": "S'inscrire"
+    },
+    "cart": {
+      "title": "Panier",
+      "empty": "Votre panier est vide",
+      "total": "Total",
+      "checkout": "Commander"
+    },
+    "vip": {
+      "title": "Devenir VIP",
+      "choosePlan": "Choisir ce Plan",
+      "perMonth": "/mois"
+    },
+    "product": {
+      "addToCart": "Ajouter au Panier"
+    },
+    "allProducts": {
+      "title": "Tous les Produits",
+      "search": "Rechercher des produits...",
+      "category": "Catégorie"
+    }
+  }
+}

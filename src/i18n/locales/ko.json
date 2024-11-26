@@ -1,0 +1,61 @@
+{
+  "nav": {
+    "upgrade": "VIP 업그레이드",
+    "login": "로그인",
+    "cart": "장바구니"
+  },
+  "hero": {
+    "title": "2024 여름 컬렉션",
+    "subtitle": "최신 패션 트렌드를 발견하세요",
+    "cta": "지금 쇼핑하기"
+  },
+  "sections": {
+    "featured": "추천 상품",
+    "bestSellers": "베스트셀러",
+    "viewAll": "모든 상품 보기"
+  },
+  "newsletter": {
+    "title": "뉴스레터 구독",
+    "subtitle": "신상품과 할인 소식을 받아보세요",
+    "placeholder": "이메일 주소 입력",
+    "button": "구독하기"
+  },
+  "footer": {
+    "about": "프리미엄 쇼핑 경험을 위한 원스톱 데스티네이션",
+    "quickLinks": "빠른 링크",
+    "customerService": "고객 서비스",
+    "followUs": "팔로우하기",
+    "rights": "모든 권리 보유"
+  },
+  "modals": {
+    "login": {
+      "title": "로그인",
+      "email": "이메일 주소",
+      "password": "비밀번호",
+      "remember": "로그인 정보 저장",
+      "forgot": "비밀번호를 잊으셨나요?",
+      "submit": "로그인",
+      "noAccount": "계정이 없으신가요?",
+      "signup": "회원가입"
+    },
+    "cart": {
+      "title": "장바구니",
+      "empty": "장바구니가 비어있습니다",
+      "total": "총액",
+      "checkout": "결제하기"
+    },
+    "vip": {
+      "title": "VIP 업그레이드",
+      "choosePlan": "플랜 선택",
+      "perMonth": "/월"
+    },
+    "product": {
+      "addToCart": "장바구니에 담기"
+    },
+    "allProducts": {
+      "title": "모든 상품",
+      "search": "상품 검색...",
+      "category": "카테고리"
+    }
+  }
+}

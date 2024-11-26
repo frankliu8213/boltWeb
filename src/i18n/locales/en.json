@@ -1,0 +1,61 @@
+{
+  "nav": {
+    "upgrade": "Upgrade VIP",
+    "login": "Login",
+    "cart": "Cart"
+  },
+  "hero": {
+    "title": "Summer Collection 2024",
+    "subtitle": "Discover the latest trends in fashion",
+    "cta": "Shop Now"
+  },
+  "sections": {
+    "featured": "Featured Products",
+    "bestSellers": "Best Sellers",
+    "viewAll": "View All Products"
+  },
+  "newsletter": {
+    "title": "Subscribe to Our Newsletter",
+    "subtitle": "Get the latest updates on new products and upcoming sales",
+    "placeholder": "Enter your email",
+    "button": "Subscribe"
+  },
+  "footer": {
+    "about": "Your one-stop destination for premium shopping experience",
+    "quickLinks": "Quick Links",
+    "customerService": "Customer Service",
+    "followUs": "Follow Us",
+    "rights": "All rights reserved"
+  },
+  "modals": {
+    "login": {
+      "title": "Login",
+      "email": "Email Address",
+      "password": "Password",
+      "remember": "Remember me",
+      "forgot": "Forgot password?",
+      "submit": "Sign In",
+      "noAccount": "Don't have an account?",
+      "signup": "Sign up"
+    },
+    "cart": {
+      "title": "Shopping Cart",
+      "empty": "Your cart is empty",
+      "total": "Total",
+      "checkout": "Checkout"
+    },
+    "vip": {
+      "title": "Upgrade to VIP",
+      "choosePlan": "Choose Plan",
+      "perMonth": "/month"
+    },
+    "product": {
+      "addToCart": "Add to Cart"
+    },
+    "allProducts": {
+      "title": "All Products",
+      "search": "Search products...",
+      "category": "Category"
+    }
+  }
+}

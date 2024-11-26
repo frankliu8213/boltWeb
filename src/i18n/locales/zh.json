@@ -1,0 +1,61 @@
+{
+  "nav": {
+    "upgrade": "升级VIP",
+    "login": "登录",
+    "cart": "购物车"
+  },
+  "hero": {
+    "title": "2024夏季系列",
+    "subtitle": "探索最新时尚潮流",
+    "cta": "立即购买"
+  },
+  "sections": {
+    "featured": "精选商品",
+    "bestSellers": "畅销商品",
+    "viewAll": "查看全部商品"
+  },
+  "newsletter": {
+    "title": "订阅我们的通讯",
+    "subtitle": "获取最新产品更新和即将到来的销售信息",
+    "placeholder": "输入您的邮箱",
+    "button": "订阅"
+  },
+  "footer": {
+    "about": "您的一站式高端购物体验目的地",
+    "quickLinks": "快速链接",
+    "customerService": "客户服务",
+    "followUs": "关注我们",
+    "rights": "版权所有"
+  },
+  "modals": {
+    "login": {
+      "title": "登录",
+      "email": "电子邮箱",
+      "password": "密码",
+      "remember": "记住我",
+      "forgot": "忘记密码？",
+      "submit": "登录",
+      "noAccount": "还没有账号？",
+      "signup": "注册"
+    },
+    "cart": {
+      "title": "购物车",
+      "empty": "您的购物车是空的",
+      "total": "总计",
+      "checkout": "结算"
+    },
+    "vip": {
+      "title": "升级VIP",
+      "choosePlan": "选择方案",
+      "perMonth": "/月"
+    },
+    "product": {
+      "addToCart": "加入购物车"
+    },
+    "allProducts": {
+      "title": "所有商品",
+      "search": "搜索商品...",
+      "category": "分类"
+    }
+  }
+}

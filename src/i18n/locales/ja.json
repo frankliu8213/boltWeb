@@ -1,0 +1,61 @@
+{
+  "nav": {
+    "upgrade": "VIPにアップグレード",
+    "login": "ログイン",
+    "cart": "カート"
+  },
+  "hero": {
+    "title": "2024年夏コレクション",
+    "subtitle": "最新のファッショントレンドを発見",
+    "cta": "今すぐ購入"
+  },
+  "sections": {
+    "featured": "注目商品",
+    "bestSellers": "ベストセラー",
+    "viewAll": "すべての商品を見る"
+  },
+  "newsletter": {
+    "title": "ニュースレターを購読",
+    "subtitle": "新商品と今後のセールの最新情報を入手",
+    "placeholder": "メールアドレスを入力",
+    "button": "購読"
+  },
+  "footer": {
+    "about": "プレミアムショッピング体験のための一つの目的地",
+    "quickLinks": "クイックリンク",
+    "customerService": "カスタマーサービス",
+    "followUs": "フォローする",
+    "rights": "全著作権所有"
+  },
+  "modals": {
+    "login": {
+      "title": "ログイン",
+      "email": "メールアドレス",
+      "password": "パスワード",
+      "remember": "ログイン情報を保存",
+      "forgot": "パスワードをお忘れですか？",
+      "submit": "サインイン",
+      "noAccount": "アカウントをお持ちでない方",
+      "signup": "新規登録"
+    },
+    "cart": {
+      "title": "ショッピングカート",
+      "empty": "カートは空です",
+      "total": "合計",
+      "checkout": "購入手続きへ"
+    },
+    "vip": {
+      "title": "VIPにアップグレード",
+      "choosePlan": "プランを選択",
+      "perMonth": "/月"
+    },
+    "product": {
+      "addToCart": "カートに追加"
+    },
+    "allProducts": {
+      "title": "すべての商品",
+      "search": "商品を検索...",
+      "category": "カテゴリー"
+    }
+  }
+}
